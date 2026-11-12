@@ -1,0 +1,12 @@
+{
+  "name": "reaction-chain",
+  "version": "1.0.0",
+  "private": true,
+  "description": "反应链 1.0 静态版",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
